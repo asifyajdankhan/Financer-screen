@@ -1,0 +1,241 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+.card:focus,
+img:focus,
+a:focus {
+  box-shadow: none;
+  outline: none;
+}
+.email_top {
+  padding: 0px 15px 0px 0px;
+  color: #30bc8f;
+}
+.Ji_sunset {
+  padding: 0px 0px 0px 10px;
+  color: #d0d4d7;
+}
+.map_icon {
+  padding: 0px 0px 0px 10px;
+  color: #30bc8f;
+}
+.icon_section {
+  padding: 0px 15px 0px 0px;
+}
+.contact_tab {
+  color: #d0d4d7;
+}
+.border_take {
+  border-top: 1px solid gray;
+}
+.financer_logo {
+  width: 50px;
+  height: 70px;
+}
+.financer-brand {
+  color: black;
+  font-size: 32px;
+}
+.financer-brand:hover {
+  color: #30bc8f;
+}
+.free_consult {
+  width: 122px;
+  margin: 0px 0px 0px 10px;
+}
+.phone_icon {
+  font-size: 22px;
+  color: #30bc8f;
+}
+.home-menu {
+  color: gray;
+}
+.home-tab {
+  padding: 0px 15px 0px 0px;
+}
+.home-tab :hover {
+  color: #30bc8f;
+}
+.financialsolution {
+  background-image: url(../images/firstimage.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  height: 600px;
+}
+.financial_solution {
+  position: relative;
+  top: 25%;
+}
+.getaquote_button:hover {
+  background-color: #30bc8f;
+}
+.getaquote_button {
+  border: 1px solid rgb(151, 237, 146);
+}
+.the_european {
+  color: #d0d4d7;
+}
+.first_card {
+  min-width: 100%;
+  max-width: 100%;
+  transform: translate(0px, -60px);
+  height: 260px;
+  border-bottom: 8px solid #30bc8f;
+}
+.professional_icon {
+  font-size: 40px;
+  color: #30bc8f;
+}
+.some_quick {
+  color: gray;
+}
+.about_content {
+  color: #30bc8f;
+}
+.twenty_years {
+  padding: 7px 0px 0px 15px;
+}
+.forty_five {
+  padding: 7px 0px 0px 15px;
+}
+.fourty_icon {
+  padding: 0px 0px 0px 50px;
+}
+.image-size {
+  border-radius: 10% 0%;
+  box-shadow: 20px 20px 0px 0px #30bc8f;
+}
+.services_tab {
+  color: #1ba42c;
+}
+.explore_what {
+  width: 200px;
+}
+.viewall_button :hover {
+  background-color: #1ba42c;
+}
+.service_card_tab {
+  height: 180px;
+  box-shadow: 0 0 8px;
+}
+.service_icon {
+  padding: 0px 15px 0px 0px;
+  color: #30bc8f;
+  font-size: 35px;
+}
+.sevice_somequick {
+  color: #e4e7eb;
+}
+.lorem_tab {
+  color: #b8c0c3;
+}
+.Services_parent {
+  position: relative;
+  top: 20%;
+}
+.Service-explore {
+  background-color: #f5fffc;
+}
+.GetExpert {
+  background-color: #ffffff;
+}
+.boys_pic {
+  width: 80%;
+  height: 450px;
+  box-shadow: -20px -20px 0px 0px #30bc8f;
+}
+.who_we {
+  color: #30bc8f;
+}
+.some_quick_far {
+  color: gray;
+}
+.eightysix {
+  margin-left: 50%;
+}
+.metrics_icon {
+  font-size: 40px;
+  color: #5b615f;
+  padding: 0px 12px 0px 0px;
+}
+.metrics {
+  background-color: #f5fffc;
+}
+.Our_team {
+  color: #30bc8f;
+}
+.expert_team {
+  height: 340px;
+  width: 100%;
+  border-radius: 10% 0%;
+}
+.OurTeam {
+  background-color: #ffffff;
+  width: 100%;
+  height: 650px;
+}
+.footerSection {
+  background-color: #464f60;
+}
+.oneday_hover {
+  color: gray;
+}
+.footer_call {
+  width: 145px;
+  margin: 0px 0px 0px 10px;
+  color: gray;
+}
+.map_icon_footer {
+  padding: 0px 0px 0px 4px;
+  color: #30bc8f;
+}
+.lorem_footer {
+  color: gray;
+}
+.footer_call:hover {
+  color: #30bc8f;
+}
+.Ji_sunset {
+  padding: 0px 0px 0px 10px;
+  color: gray;
+}
+.stylefooter {
+  border-top: 1px solid gray;
+}
+.download_footer {
+  color: #787d81;
+  font-size: 20px;
+}
+.footer_card {
+  transform: translate(0px, -112px);
+  height: 158px;
+}
+.newsletter_tab {
+  padding: 0px 0px 0px 12px;
+}
+.farfar_footer {
+  padding: 0px 0px 0px 32px;
+}
+.send_button:hover {
+  background-color: #30bc8f;
+  color: #ffffff;
+}
+.send_button1:hover {
+  background-color: #30bc8f;
+  color: #ffffff;
+}
+.emailadrees_tab {
+  position: relative;
+  top: 30%;
+}
+.team_expert_tab {
+  position: relative;
+  top: 5%;
+}
+.clock_icon {
+  color: #30bc8f;
+  padding: 0px 5px 0px 0px;
+}
